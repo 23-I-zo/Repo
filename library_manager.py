@@ -10,9 +10,9 @@ books_dic["Python Programming"] = "John Smith"
 
 books_list.append("Data Structures and Algorithms")
 authors_set.add("Jane Doe")
-books_dic["Data Structures and Algorithms"] = "JAne Doe"
+books_dic["Data Structures and Algorithms"] = "Jane Doe"
 
-books_list.append("Machne Learnng Basics")
+books_list.append("Machine Learning Basics")
 authors_set.add("Alice Johnson")
 books_dic["Machine Learning Basics"] = "Alice Johnson"
 
