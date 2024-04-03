@@ -33,3 +33,4 @@ while input("Do you want to go forward? (yes/no): ").lower() == 'yes':
         print(f'Going forward to {current_page}')
     else:
         print('No forward page avialabe.')
+        
